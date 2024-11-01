@@ -30,7 +30,7 @@ Our Smart City Analytics Pipeline transforms raw city data into actionable insig
 
 ## 🏗️ Architecture
 
-Our pipeline uses a modern data streaming architecture (see diagram above) with:
+Our pipeline uses a modern data streaming architecture with:
 
 ### Data Collection Layer
 - 📡 **Vehicle Sensors**: Speed, direction, fuel type
