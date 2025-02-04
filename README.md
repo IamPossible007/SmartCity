@@ -123,8 +123,9 @@ We love contributions! Here's how you can help:
 ## 📫 Need Help?
 
 - 📝 Open an issue
-- 📧 Email: support@smartcity.com
-- 💬 Join our [Slack channel]
+- 📧 Email: harshkanani80@gmial.com
+
+
 
 ## 📄 License
 
